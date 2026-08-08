@@ -1,4 +1,3 @@
-
 if vim.g.loaded_focus_context == 1 then
   return
 end
