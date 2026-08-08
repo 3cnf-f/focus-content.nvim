@@ -1,0 +1,23 @@
+# Credentials and Secrets
+token.*
+credentials.*
+my_secrets.py
+secrets.py
+secrets/
+.env
+*.env
+.env.local
+.env.*
+*.pem
+*.key
+id_rsa*
+*.json
+client_secret*
+
+# Database files
+*.db
+*.sqlite3
+*.sq3
+
+# Logs
+*.log
