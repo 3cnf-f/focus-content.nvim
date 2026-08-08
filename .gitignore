@@ -1,4 +1,6 @@
 # my stuff ########
+*.rock
+luac.out
 *.json
 secrets.*
 my_secrets.*
